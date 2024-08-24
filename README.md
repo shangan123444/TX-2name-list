@@ -44,5 +44,5 @@
 -	50720222082	罗天凯
 -	50720222084	沈奥博
 -	50720222085	韩泽迅
-![image](https://github.com/user-attachments/assets/0c0ff30b-e76b-474e-a901-b0213d3d783e)
+
 
